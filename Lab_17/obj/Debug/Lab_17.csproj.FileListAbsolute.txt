@@ -1,0 +1,7 @@
+C:\Users\scull\source\repos\Lab_17\Lab_17\bin\Debug\Lab_17.exe.config
+C:\Users\scull\source\repos\Lab_17\Lab_17\bin\Debug\Lab_17.exe
+C:\Users\scull\source\repos\Lab_17\Lab_17\bin\Debug\Lab_17.pdb
+C:\Users\scull\source\repos\Lab_17\Lab_17\obj\Debug\Lab_17.csprojResolveAssemblyReference.cache
+C:\Users\scull\source\repos\Lab_17\Lab_17\obj\Debug\Lab_17.csproj.CoreCompileInputs.cache
+C:\Users\scull\source\repos\Lab_17\Lab_17\obj\Debug\Lab_17.exe
+C:\Users\scull\source\repos\Lab_17\Lab_17\obj\Debug\Lab_17.pdb

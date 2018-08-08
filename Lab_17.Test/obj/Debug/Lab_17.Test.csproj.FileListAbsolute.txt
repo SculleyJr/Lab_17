@@ -1,0 +1,17 @@
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\nunit.engine.dll
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\nunit.engine.api.dll
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\Mono.Cecil.dll
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\Lab_17.Test.dll
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\Lab_17.Test.pdb
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\Lab_17.exe
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\nunit.framework.dll
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\Lab_17.pdb
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\Lab_17.exe.config
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\nunit.framework.pdb
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\bin\Debug\nunit.framework.xml
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\obj\Debug\Lab_17.Test.csprojResolveAssemblyReference.cache
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\obj\Debug\Lab_17.Test.csproj.CoreCompileInputs.cache
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\obj\Debug\Lab_17.Test.dll
+C:\Users\scull\source\repos\Lab_17\Lab_17.Test\obj\Debug\Lab_17.Test.pdb
